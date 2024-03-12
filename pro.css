@@ -1,249 +1,249 @@
 .wrapper{
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .page1 {
-    position: relative;
-    background-image: url(YB.png);
+  position: relative;
+  background-image: url(YB.png);
 }
 .yellow
 {
-    position: absolute;
-    z-index: 1;
+  position: absolute;
+  z-index: 1;
 }
 .SY{
-    position:relative;
-    top:0;
-    right:0;
-    margin-left: 817px;
-    z-index: 2;
-   
-    
+  position:relative;
+  top:0;
+  right:0;
+  margin-left: 870px;
+  z-index: 2;
+ 
+  
 }
 .P1{
-    position: absolute;
-    z-index: 3;
-    right: 0px;
-    top: -30px;
-   
+  position: absolute;
+  z-index: 3;
+  right: 0px;
+  top: -30px;
+ 
 }
 .ph{
-    position: absolute;
-    z-index: 3;
-    top: 20px;
-    right:110px;
+  position: absolute;
+  z-index: 3;
+  top: 20px;
+  right:110px;
 }
 .lg
 {
-    position: absolute;
-    z-index: 3;
-    left: 30px;
-    top: 0px;
+  position: absolute;
+  z-index: 3;
+  left: 30px;
+  top: 0px;
 }
 .l1
 {
-    position: absolute;
-    z-index: 3;
-    top: 200px;
-    left: 100px;
+  position: absolute;
+  z-index: 3;
+  top: 200px;
+  left: 100px;
 
 }
 .l2{
-    position: absolute;
-    z-index: 3;
-    top: 630px;
-    right:150px;
+  position: absolute;
+  z-index: 3;
+  top: 630px;
+  right:150px;
 }
 .t{
-    position: absolute;
-    z-index: 3;
-    top: 700px;
-    left:600px;
+  position: absolute;
+  z-index: 3;
+  top: 700px;
+  left:600px;
 }
 .IP{
-    position: absolute;
-    z-index: 3;
-    top: 15px;
-    right:70px;
+  position: absolute;
+  z-index: 3;
+  top: 15px;
+  right:70px;
 }
 .P2{
-    position: absolute;
-    z-index: 3;
-    left:650px;
-    top:140px;
+  position: absolute;
+  z-index: 3;
+  left:650px;
+  top:140px;
 }
 
 .au
 {
-    position: absolute;
-    z-index: 3;
-    top: 200px;
-    left: 200px;
+  position: absolute;
+  z-index: 3;
+  top: 200px;
+  left: 200px;
 
 }
 .dw{
-    position: absolute;
-    z-index: 3;
-    top: 200px;
-    left: 100px;
-    font-size: 90px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 400;
-    font-family: "Fredericka the Great";
+  position: absolute;
+  z-index: 3;
+  top: 200px;
+  left: 100px;
+  font-size: 90px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Fredericka the Great";
 }
 .ls{
-    position: absolute;
-    z-index: 3;
-    top: 370px;
-    left: 150px;
-    font-size: 27px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    
+  position: absolute;
+  z-index: 3;
+  top: 370px;
+  left: 150px;
+  font-size: 27px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  
 }
 .l3
 {
-    position: absolute;
-    z-index: 3;
-    top: 450px;
-    left: 150px;
+  position: absolute;
+  z-index: 3;
+  top: 450px;
+  left: 150px;
 }
 .tm{
-    position: absolute;
-    z-index: 3;
-    top: 500px;
-    left: 250px;
+  position: absolute;
+  z-index: 3;
+  top: 500px;
+  left: 250px;
 
-    font-size: 19px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 400;
-    font-family: "Fredericka the Great";
+  font-size: 19px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Fredericka the Great";
 }
 .op{
-    position: absolute;
-    z-index: 3;
-    top: 450px;
-    left: 400px;
+  position: absolute;
+  z-index: 3;
+  top: 450px;
+  left: 400px;
 
-    font-size: 57px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 400;
-    font-family: "Fredericka the Great";
+  font-size: 57px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Fredericka the Great";
 }
 .bt{
-    position: absolute;
-    z-index: 3;
-    top: 580px;
-    left: 320px;
-    font-size: 21px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 800;
-    font-family: "Montserrat";
+  position: absolute;
+  z-index: 3;
+  top: 580px;
+  left: 320px;
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 800;
+  font-family: "Montserrat";
 
-    
-    
-    margin-top: 15px;
-    margin-right: 5px;
+  
+  
+  margin-top: 15px;
+  margin-right: 5px;
 background: none;
 border: none;
 }
 .btb{
-    position: absolute;
-    z-index: 3;
-    top: 580px;
-    left: 280px;
+  position: absolute;
+  z-index: 3;
+  top: 580px;
+  left: 280px;
 }
 .sp{
-    position: absolute;
-    z-index: 3;
-    top:500px;
-    right: 1250px;
+  position: absolute;
+  z-index: 3;
+  top:500px;
+  right: 1250px;
 }
 .home
 {
-    position: absolute;
-    z-index: 3;
-    font-size: 17px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    background: none;
-    border: none;
-    
-    top: 90px;
-    right: 600px;
+  position: absolute;
+  z-index: 3;
+  font-size: 17px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  background: none;
+  border: none;
+  
+  top: 90px;
+  right: 600px;
 }
 .menu
 {
-    position: absolute;
-    z-index: 3;
-    font-size: 17px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    background: none;
-    border: none;
-    
-    top: 90px;
-    right: 480px;
+  position: absolute;
+  z-index: 3;
+  font-size: 17px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  background: none;
+  border: none;
+  
+  top: 90px;
+  right: 480px;
 }
 .os{
-    position: absolute;
-    z-index: 3;
-    font-size: 17px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    background: none;
-    
-    border: none;
-    top: 90px;
-    right: 280px;
+  position: absolute;
+  z-index: 3;
+  font-size: 17px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  background: none;
+  
+  border: none;
+  top: 90px;
+  right: 280px;
 }
 .cu{
-    position: absolute;
-    z-index: 3;
-    font-size: 17px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    background: none;
-    
-    border: none;
-    top: 90px;
-    right: 100px;
+  position: absolute;
+  z-index: 3;
+  font-size: 17px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  background: none;
+  
+  border: none;
+  top: 90px;
+  right: 100px;
 }
 .page2{
 
-    background-color: #ffffff; /* or any other color */
-    margin-top: 50px;
+  background-color: #ffffff; /* or any other color */
+  margin-top: 50px;
 
 }
 .ph2{
-    position: relative;
-    z-index: 1;
-    font-size: 50px;
-    line-height: 38px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 400;
-    font-family: "Fredericka the Great";
-    margin-left: 420px;
-    margin-top: 100px;
+  position: relative;
+  z-index: 1;
+  font-size: 50px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Fredericka the Great";
+  margin-left: 420px;
+  margin-top: 100px;
 
 }
 .ab{
@@ -257,14 +257,14 @@ font-family: "Montserrat";
 text-align: center;
 }
 .ys{
-    margin-top: 300px;
-    position: relative;
-    z-index: 1;
-    
+  margin-top: 300px;
+  position: relative;
+  z-index: 1;
+  
 
 }
 .ys img{
-    width: 100%;
+  width: 100%;
 }
 .fo
 {
@@ -284,7 +284,7 @@ font-family: "Montserrat";
 padding-right: 300px;
 }
 .ft{
-    width: 367px;
+  width: 367px;
 height: 51px;
 font-size: 17px;
 line-height: 21px;
@@ -311,7 +311,7 @@ border: none;
 
 }
 .p3{
-    font-size: 17px;
+  font-size: 17px;
 line-height: 38px;
 text-transform: uppercase;
 color: #000000;
@@ -327,13 +327,13 @@ border: none;
 
 }
 .p4{
-    font-size: 17px;
-    line-height: 38px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    width: 195px;
+  font-size: 17px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  width: 195px;
 height: 57px;
 background-color: #ffe001;
 position: relative;
@@ -341,139 +341,139 @@ left: 600px;
 border: none;
 }
 .h3{
-    font-size: 21px;
-    letter-spacing: 1px;
-    line-height: 46px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    margin-left: 650px;
-    margin-top: -100px;
-    
-    }
-    .h32{
-    font-size: 42px;
-    line-height: 46px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 400;
-    font-family: "Fredericka the Great";
-    margin-left: 500px;
-    margin-top: -10px;
-    }
-    .p12{
-        width: 1035px;
-    height: 60px;
-    font-size: 17px;
-    line-height: 25px;
-    color: #000000;
-    font-weight: 400;
-    font-family: "Montserrat";
-    text-align: center;
-    margin-left: 150px;
-    }
+  font-size: 21px;
+  letter-spacing: 1px;
+  line-height: 46px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  margin-left: 650px;
+  margin-top: -100px;
+  
+  }
+  .h32{
+  font-size: 42px;
+  line-height: 46px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Fredericka the Great";
+  margin-left: 500px;
+  margin-top: -10px;
+  }
+  .p12{
+      width: 1035px;
+  height: 60px;
+  font-size: 17px;
+  line-height: 25px;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  margin-left: 150px;
+  }
 
 
 .rrd{
-    height: 1000px;
+  height: 1000px;
 
 }
 .pas1{
-    position: relative;
-    z-index: 1;
-    bottom:450px;
-    right: 0px;
-    
+  position: relative;
+  z-index: 1;
+  bottom:450px;
+  right: 0px;
+  
 }
 .pas2{
-    position: relative;
-    z-index: 1;
-    bottom: 100px;
-    left: 200px;
+  position: relative;
+  z-index: 1;
+  bottom: 100px;
+  left: 200px;
 }
 .pas3{
-    position: relative;
-    z-index: 2;
-   left: 320px;
+  position: relative;
+  z-index: 2;
+ left: 320px;
 }
 .rth {
-    height: 500px;
-    position: relative; /* Add this to make absolute positioning work correctly */
+  height: 500px;
+  position: relative; /* Add this to make absolute positioning work correctly */
 }
 .i1, .i2, .i3 {
-    position: absolute; /* Change to absolute positioning */
-    z-index: 2;
+  position: absolute; /* Change to absolute positioning */
+  z-index: 2;
 }
 .t11, .t12, .t13 {
-    position: absolute; /* Change to absolute positioning */
-    z-index: 4;
-    font-size: 25px;
-    line-height: 38px;
-    text-transform: uppercase;
-    color: #ffffff;
-    font-weight: 700;
-    font-family: "Montserrat";
+  position: absolute; /* Change to absolute positioning */
+  z-index: 4;
+  font-size: 25px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Montserrat";
 }
 /* Adjust positions accordingly */
 .i1 {
-    left: 100px;
-    top: 0;
+  left: 100px;
+  top: 0;
 }
 .t11 {
-    left: 100px;
-    top: 0;
+  left: 100px;
+  top: 0;
 }
 .i2 {
-    left: 650px;
-    top: 00px;
+  left: 650px;
+  top: 00px;
 }
 .t12 {
-    left: 650px;
-    top: 0;
+  left: 650px;
+  top: 0;
 }
 .i3 {
-    left: 650px;
-    top: 200px;
+  left: 650px;
+  top: 200px;
 }
 .t13 {
-    left: 650px;
-    top: 200px;
+  left: 650px;
+  top: 200px;
 }
 .res{
 
-    font-size: 21px;
-    letter-spacing: 1px;
-    line-height: 46px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 700;
-    font-family: "Montserrat";
-    margin-left: 600px;
-   
-    }
-    .book{
+  font-size: 21px;
+  letter-spacing: 1px;
+  line-height: 46px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  margin-left: 600px;
+ 
+  }
+  .book{
 
-    font-size: 50px;
-    letter-spacing: 3px;
-    line-height: 46px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 400;
-    font-family: "Fredericka the Great";
+  font-size: 50px;
+  letter-spacing: 3px;
+  line-height: 46px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Fredericka the Great";
 margin-left:500px;
-    
-    
-    }
+  
+  
+  }
 .name{
-   
-    width: 379px;
-    height: 65px;
-    border-radius: 5px;
-    background-color: rgba(235,174,76,0);
-    border: 1px solid #bebebe;
-    margin-top: 30px;
-    margin-left: 300px;
+ 
+  width: 379px;
+  height: 65px;
+  border-radius: 5px;
+  background-color: rgba(235,174,76,0);
+  border: 1px solid #bebebe;
+  margin-top: 30px;
+  margin-left: 300px;
 
 }
 .age{
@@ -543,277 +543,215 @@ margin-right: 720px;
 }
 
 .form{
-    height: 700px;
+  height: 700px;
 }
 .last {
-    margin: 98px 0 0;
-    padding: 66px 0 88px;
-    position: relative;
-    width: 100%; 
-    background: url(BG\ Image.png) no-repeat center 0;
-    background-position: center top;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-  .l-constrained-2 {
-    margin: 0 auto;
-    padding: 0 87px;
-    position: relative;
-    width: 1440px;
-  }
-  .logs{
-    display: block;
-    margin: 0 0 0 13px;
-    position: relative;
-  }
-  .text-10 {
-    margin: 64px 13px 0;
-    overflow: hidden;
-    position: relative;
-  }
-  .col-7 {
-    float: left;
-    margin: 0 284px 0 0;
-    position: relative;
-    width: 519px;
-  }
-  .body-text-9 {
-    width: 519px;
-    color: #ffffff;
-    line-height: 25px;
-  }
-  .text-11 {
-    margin: 165px 0 0;
-    color: #ffffff;
-  }
-  .col-10 {
-    float: left;
-    margin: 22px 0 0;
-    position: relative;
-    width: 377px;
-  }
-  .row-3 {
-    position: relative;
-  }
-  .location-icon {
-    float: left;
-    margin: 0 34px 0 0;
-  }
-  .address {
-    margin: 9px 0 0;
-    color: #ffffff;
-    font-weight: 500;
-  }
-  .row-4 {
-    margin: 17px 0 0;
-    position: relative;
-  }
-  .email-2 {
-    float: left;
-    margin: 0 35px 0 0;
-  }
-  .email-3 {
-    margin: 4px 0 0;
-    color: #ffffff;
-    font-weight: 500;
-  }
-  .social-media {
-    left: 557px;
-    margin: -24px auto 0;
-    position: relative;
-    width: 152px;
-  }
-  .icon {
-    position: relative;
-  }
-  .icon > * {
-    float: left;
-    margin: 0 12px 0 0;
-  }
-  .icon > *:last-child {
-    margin-right: 0 !important;
-  }
-  .text-style-6 {
-    display: block;
-    line-height: 25px;
-    margin-bottom: 0;
-  }
-  .text-style-11 {
-    text-transform: uppercase;
-  }
-  .text-style-7 {
-    font-size:42px; 
-    line-height: 50px;
-  }
-  .text-style {
-    display: block;
-    line-height: 10px;
-    margin-bottom: 0;
-  }
-  .text-style-8 {
-    display: block;
-    line-height: 22px;
-    margin-bottom: 0;
-  }
-  .text-style-9 {
-    font-size:42px;
-    line-height: 45px;
-  }
-  .text-style-3 {
-    font-size:29; 
-    line-height: 29px;
-  }
-  .text-style-10 {
-    font-size: 25px;
-  }
-  .text-style-2 {
-    line-height: 20.83333px;
-  }
-  .text-style-4 {
-    display: block;
-    line-height: 18px;
-    margin-bottom: 0;
-  }
-  .text-style-5 {
-    line-height: 37.5px;
-  }
+  display: flex;
+  margin: 98px 0 0;
+  padding: 66px 0 88px;
+  position: relative;
+  width: 100%; 
+  height: 500px;
+  background: url(BG\ Image.png) no-repeat center 0;
+  background-position: center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.logs{
+  width: 600px;
+}
+.trt{
+  width: 520px;
+height: 106px;
+font-size: 17px;
+line-height: 25px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Montserrat";
+margin-left: 40px;
+margin-top: 70px;
+
+}
+.rop{
+  font-size: 17px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Montserrat";
+margin-top: 250px;
+margin-left: 40px;
+}
+.lgs{
+
+width: 400px;
+
+}
+.ig4{
+  margin-top:-20px;
+}
+.m11,.m12{
+  font-size: 17px;
+line-height: 38px;
+color: #ffffff;
+font-weight: 500;
+font-family: "Montserrat";
+margin-left: 40px;
+margin-top: -4px;
+
+}
+.m1,.m2{
+ height: 30px;
+ width: 30px;
+
+}
+.loci,.maill{
+  display: flex;
+  margin-left: 250px;
+  margin-top: 150px;
+}
+.maill{
+  margin-top: 20px;
+}
+.insta{
+  width: 200px;
+  margin-top: 220px;
+  margin-left:700px; 
+}
 
 
 @media (max-width: 768px) {
-  .t{
-    left:0;
-  }
-  .au{
-    left: 50px;
-  }
-  .dw{
-    font-size: 70px;
-  }
-  .text-11 {
-    margin: 100px 0 0;
-  }
-  .col-10 {
-    width: 100%;
-  }
-  .location-icon {
-    margin-right: 10px;
-  }
-  .email-2 {
-    margin-right: 10px;
-  }
-  .social-media {
-    left: auto;
-    margin: 0 auto;
-    width: 100%;
-  }
-  .bt {
-    position: absolute;
-    z-index: 3;
-    top: 600px;
-    left: 320px;
-    font-size: 21px;
-    text-transform: uppercase;
-    
-    color: #000000;
-    border-radius: 33px;
-    font-weight: 800;
-    font-family: "Montserrat";
-    margin-top: 15px;
-    margin-right: 5px;
-    background: none;
-    border: 2px solid #000000; /* Added black border */
-  }
-  .bc{
-    display: none;
-  }
-  .SY{
-    margin-left: 270px;
-    height:100%;
-  }
-  .P2{
-    left:0;
-  }
-  .text-11 {
-    margin: 100px 0 0;
-  }
-  .col-10 {
-    width: 100%;
-  }
-  .row-3 {
-    margin-bottom: 20px;
-  }
-  .location-icon {
-    margin-right: 20px;
-  }
-  .address {
-    margin-top: 5px;
-  }
-  .row-4 {
-    margin-top: 10px;
-  }
-  .email-2 {
-    margin-right: 20px;
-  }
-  .email-3 {
-    margin-top: 2px;
-  }
-  .social-media {
-    left: auto;
-    margin: 0 auto;
-    width: 100%;
-  }
-  .icon > * {
-    margin-right: 8px;
-  }
-  .text-style-6 {
-    line-height: 20px;
-  }
-  .text-style-7 {
-    font-size: 30px;
-    line-height: 35px;
-  }
-  .text-style-8 {
-    line-height: 15px;
-  }
-  .text-style-9 {
-    font-size: 30px;
-    line-height: 35px;
-  }
-  .text-style-3 {
-    font-size: 20px;
-    line-height: 20px;
-  }
-  .text-style-10 {
-    font-size: 20px;
-  }
-  .text-style-2 {
-    line-height: 15px;
-  }
-  .text-style-4 {
-    line-height: 12px;
-  }
-  .text-style-5 {
-    line-height: 25px;
-  }
-
-  .ph2 {
-    position: relative;
-    z-index: 1;
-    font-size: 50px;
-    line-height: 38px;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: 400;
-    font-size: 32px;
-    font-family: "Fredericka the Great";
-    margin-left: 200px;
-    margin-top: 100px;
-  }
-  .ab{
-    font-size: 16px;
-    text-align: start;
-  }
+.t{
+  left:0;
 }
+.au{
+  left: 50px;
+}
+.dw{
+  font-size: 70px;
+}
+.text-11 {
+  margin: 100px 0 0;
+}
+.col-10 {
+  width: 100%;
+}
+.location-icon {
+  margin-right: 10px;
+}
+.email-2 {
+  margin-right: 10px;
+}
+.social-media {
+  left: auto;
+  margin: 0 auto;
+  width: 100%;
+}
+.bt {
+  position: absolute;
+  z-index: 3;
+  top: 600px;
+  left: 320px;
+  font-size: 21px;
+  text-transform: uppercase;
   
+  color: #000000;
+  border-radius: 33px;
+  font-weight: 800;
+  font-family: "Montserrat";
+  margin-top: 15px;
+  margin-right: 5px;
+  background: none;
+  border: 2px solid #000000; /* Added black border */
+}
+.bc{
+  display: none;
+}
+.SY{
+  margin-left: 270px;
+  height:100%;
+}
+.P2{
+  left:0;
+}
+.text-11 {
+  margin: 100px 0 0;
+}
+.col-10 {
+  width: 100%;
+}
+.row-3 {
+  margin-bottom: 20px;
+}
+.location-icon {
+  margin-right: 20px;
+}
+.address {
+  margin-top: 5px;
+}
+.row-4 {
+  margin-top: 10px;
+}
+.email-2 {
+  margin-right: 20px;
+}
+.email-3 {
+  margin-top: 2px;
+}
+.social-media {
+  left: auto;
+  margin: 0 auto;
+  width: 100%;
+}
+.icon > * {
+  margin-right: 8px;
+}
+.text-style-6 {
+  line-height: 20px;
+}
+.text-style-7 {
+  font-size: 30px;
+  line-height: 35px;
+}
+.text-style-8 {
+  line-height: 15px;
+}
+.text-style-9 {
+  font-size: 30px;
+  line-height: 35px;
+}
+.text-style-3 {
+  font-size: 20px;
+  line-height: 20px;
+}
+.text-style-10 {
+  font-size: 20px;
+}
+.text-style-2 {
+  line-height: 15px;
+}
+.text-style-4 {
+  line-height: 12px;
+}
+.text-style-5 {
+  line-height: 25px;
+}
+
+.ph2 {
+  position: relative;
+  z-index: 1;
+  font-size: 50px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: 400;
+  font-size: 32px;
+  font-family: "Fredericka the Great";
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.ab{
+  font-size: 16px;
+  text-align: start;
+}
+}
